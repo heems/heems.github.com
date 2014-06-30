@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'kramdown'
+gem 'jekyll', '1.5.1'
 gem 'coderay'
 gem 'rake'
 gem 'thor'
