@@ -5,7 +5,7 @@ description: "How permadeath makes me feel in Diablo 3 and Don't Starve."
 published: true
 ---
 
-![Amazing Illustration by Karthik Bala](/img/permadeath.png)
+![Amazing Illustration by Karthik Bala](/images/permadeath.png)
 </br>
 </br>
 
