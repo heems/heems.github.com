@@ -1,0 +1,58 @@
+title:            Balag
+description:      Describe your website.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
+disqus_shortname:
+
+# Owner/author information
+owner:
+  name:           Karthik Bala
+  avatar:         blogbg.png
+  bio:            "Freshman at UT Austin.  I like to write sometimes."
+  email:          karthikbala444@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
+  facebook:
+  github:         heems
+  stackoverflow:
+  linkedin:
+  instagram:
+  lastfm:         thumbninja
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/
+  - title: Posts
+    url: /posts/
+  - title: Theme Setup
+    url: /theme-setup/
+  - title: Made Mistakes
+    url: http://mademistakes.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+highlighter: pygments
+markdown:    rdiscount
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
