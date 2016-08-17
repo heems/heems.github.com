@@ -1,5 +1,5 @@
 ---
-title: Review of Unkown Death 2002
+title: Review of Unknown Death 2002
 layout: post
 published: true
 description: "I still don't know."
