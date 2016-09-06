@@ -2,7 +2,7 @@
 title: Absurd Experiences
 layout: post
 published: true
-description: "*hits blunt* dude..."
+description: "*hits blunt*, dude..."
 ---
 
 This is based off a response to the question:
@@ -17,4 +17,4 @@ I do all these absurd things with the end goal of living happily and occupying t
 
 *On the Road's* Rollo Greb ([Alen Ansen](https://www.wikiwand.com/en/Alan_Ansen)) and *The Picture of Dorian Gray's* Lord Henry are perfect embodiments of the happy Sisyphus.  Rollo Greb is passionately absorbed in every moment of his life, rendered speechless by the beauty of everyday life.  He doesn't have a end goal or life mission he works towards; he stays in the present, taking in every iota whatever scene is in front of him, whether it be the road out ahead of him or some average library.  This is the main idea of a lot of mindfulness teachings: if we do not worry about the future or regret the past, we will constantly live in a state of bliss.  Lord Henry, though at first glance very different from Greb, is another example of a man who treats life as an aesthetic experience-- never worrying and unwaveringly satisfied. To him, existence is simply a captivating play; we should sit back and contemplate its intricacies.  Though Lord Henry may be seen as an antagonist in *The Picture of Dorian Gray*, I believe his unique view on life is valuable, and a step towards happiness in the face of meaninglessness.  Maybe if I focus harder on my computer science assignments I can extract beauty from re-proving graph isomorphism is NP-Complete.
 
-The easiest response to "why should I continue living a meaningless life?" is "why not?".  Why should Rollo Greb kill himself if he lives in a constant state of ecstacy?  Why does Lord Henry need a purpose if he is always content?  If Sisyphus is blissful pushing the bouldering up the mountain day in and day out, who can say that his life is not worth living? 
+The easiest response to "why should I continue living a meaningless life?" is "why not?".  Why should Rollo Greb kill himself if he lives in a constant state of ecstasy?  Why does Lord Henry need a purpose if he is always content?  If Sisyphus is blissful pushing the bouldering up the mountain day in and day out, who can say that his life is not worth living? 

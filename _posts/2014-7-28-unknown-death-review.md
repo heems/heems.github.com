@@ -1,14 +1,10 @@
----
+-link--
 title: Review of Unknown Death 2002
 layout: post
 published: true
 description: "I still don't know."
 ---
 
-
-I’m just going to jump right into it.  I never liked reading context/intros anyway.  
-
-**TL;DR**:  I went in expecting shitty ironically bad rap, but it actually isn’t that bad.  
 
 ![](/images/yung-lean.jpg)  
 ‘Welcome 2 Unknown Death’ is easily the worst song on the album.  With all the comical ad-libs, awkward flow, and the ‘believe me, fuck a fat ho, Adele’ line, it sounds like something Lil B would shit out on a 100 song mixtape The beat is much too sparse to carry Young Lean’s terrible rapping and sets up the rest of the album to be the ironically bad hip-hop I expected it to be.  
