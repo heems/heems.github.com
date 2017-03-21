@@ -2,6 +2,7 @@
 title: The Joy of Personal Websites
 layout: post
 published: true
+favorite: true
 ---
 
 A few months ago, I stumbled upon a fascinating website.  It's called [the darnedest thing](http://thedarnedestthing.com/the%20darnedest%20thing).  I have only the slightest picture of who the owner of the site is, limited to what is contained in the [colophon page](http://thedarnedestthing.com/colophon).  The owner's name is Steven Hum.  The bullet point description of his "production environment", and a vignette unironically hyperbolizing  customizing his window manager to where it sounds like a samurai adjusting a new katana ("it’s a slow and methodical process. Step by step... molding it to one’s will"), make him out to be a tech enthusiast.  

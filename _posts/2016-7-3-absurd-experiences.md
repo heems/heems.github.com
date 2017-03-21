@@ -3,6 +3,7 @@ title: Absurd Experiences
 layout: post
 published: true
 description: "*hits blunt*, dude..."
+favorite: true
 ---
 
 This is based off a response to the question:
