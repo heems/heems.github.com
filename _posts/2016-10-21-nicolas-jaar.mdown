@@ -5,6 +5,6 @@ published: true
 description: "Nicolas Jaar at Emo's"
 ---
 
-<a href="http://orangemag.co/music/2016/10/21/concert-review-nicolas-jaar-at-emos">I wrote a thing for Orange Magazine!</a>  
+<a href="http://orangemag.co/orangeblog/2016/10/21/concert-review-nicolas-jaar-at-emos">I wrote a thing for Orange Magazine!</a>  
 
 
