@@ -6,7 +6,7 @@ description: "Why I lost my shit when my friend told me he cleans his toaster."
 
 ### The problem
 
-Your alarm wakes you up at 9:00 a.m.  You eat, make coffee, shower, shave, etc. and are ready for work by ten.  You have an average thirty minute commute to your office.  It's now ten thirty.  You work an average eight hours, leave at six thirty, and get home at seven.  You want to get into bed by 1 a.m, so you can hopefully get seven or eight hours of sleep (budgeting for thirty minutes of anxious pre-sleep tossing and turning).  That leaves you with five and a half hours of precious free time-- how should you sepnd it?
+Your alarm wakes you up at 9:00 a.m.  You eat, make coffee, shower, shave, and are ready for work by ten.  You have an average thirty minute commute to your office.  It's now ten thirty.  You work an average eight hours, leave at six thirty, and get home at seven.  You want to get into bed by 1 a.m, so you can hopefully get seven or eight hours of sleep (budgeting for thirty minutes of anxious pre-sleep tossing and turning).  That leaves you with five and a half hours of precious free time-- how should you sepnd it?
 
 Well, you have to eat.  Cooking tops any list of ways to save money and be healthy. Youou remember the last time you tried to cook something. It was a one hour ordeal, you had to clean up afterwards, another ten minutes of mindless labor, and you're currently all out of pepper and the only way to make your god-awful cooking palatable is copius amounts of pepper so if you're going to embark on this cooking thing you're going to have to trek to the grocery store first.  
 
@@ -14,9 +14,9 @@ A grocery store excursion is another hour on top of cooking, cleaning-- definite
 
 While choking down "dinner", you scroll through Facebook.  Look at all these shared news articles you haven't the slightest clue about.  Are you an informed member of the democracy?  What are you going to say tomorrow when everyone's talking about Trump's latest tweet?  You worry people will think you're dumb if you don't keep prepared opinions on popular issues.  You attempt to research some recently approved healthcare legislation, but somehow get caught up in a Vice article about a man who ["Did a Shit So Bad On a British Airways Plane That It Had To Turn Around and Come Back Again"](https://www.vice.com/en_uk/article/gq8zdb/someone-did-a-shit-so-bad-a-british-airways-flight-had-to-turn-around-and-land-475).  It is now seven thirty.
 
-You look at the last few sips of Soylent sitting in your shaker.  The powder floats at the top of the now heterogenous mixture.  You feel like this probably isn't the best health decision long term.  
+You eye the last few sips of Soylent sitting in your shaker.  The powder floats at the top of the now heterogenous mixture.  You feel like this probably isn't the best health decision long term.  
 
-Dave from work somehow enters your wandering thoughts.  Fucker is always way too happy to be there and is always talking about his dumb triathlons.  You feel like working out.  You know cardio is good for you, but you also want to look swole, so you have to lift too.  You hit the gym and a quick shower and now its nine thirty.  You decide to relax for a bit and flip through the fitness articles on your phone, that started populating your Facebook feed after you accidently shared an embarassing quarter-mile jog through Strava.
+Dave from work somehow enters your wandering thoughts.  Fucker is always way too happy to be there and is always talking about his dumb triathlons.  You feel like working out.  You know cardio is good for you, but you also want to look swole, so you have to lift too.  You hit the gym and a quick shower and now its nine thirty.  You decide to relax for a bit and flip through the fitness articles on your phone that started populating your Facebook feed after you accidently shared an embarassing quarter-mile jog through Strava.
 
 *"Daily 5 minute ab workout for the beach body of your dreams"*
 
@@ -51,7 +51,7 @@ Here's a quick, non-exhaustive, list of common, upkeep related, tasks the averag
 * dating
 * stretching 
 * excercise
-* FUCKING FOAM ROLLING APPARENTLY
+* FUCKING FOAM ROLLING
 * shaving
 * trimming
 * haircuts
@@ -66,7 +66,9 @@ Here's a quick, non-exhaustive, list of common, upkeep related, tasks the averag
 * religious activities (my deeply religious relatives implore me to do an hour of various rituals and breathing excercises every day)
 * home upkeep/renovations/gardening
 
-Yeah, it's not like your license expires every week, but the one week you may finally catch a break from random errands, that's the week your license expires.  Alone and isolated, the tasks seem manageable, but they join forces and scheme and build strength in numbers and pile on top of each other until you're spending weekend after weekend climbing this hill of never-ending errands.  A few weeks ago, my friend and I were having a discussion about Pop-Tarts.  I told him I microwave my Pop-Tarts, since I don't want a sticky toaster.  My friend responded with "dude, do you not clean your toaster?"  Naturally, I broke down.  I've never cleaned my toaster in my entire life.  My family's toaster probably still has bread crumbs lurking around from the 1990s.  It never occurred to us that toasters required cleaning.  I just assumed the charred debris and dust particles magically dissolved into the air or melted and absorbed into the toaster itself, maybe making it stronger, and here my friend was, casually mentioning how it was essential to regularly clean your toaster, as if my list of random, mundane, housework wasn't long enough.  Needless to say, my toaster remains a valuable incubator for bread-dwelling bacteria.  How do you even clean a toaster?  Do you have to take that shit apart with a screwdriver or something?  That's a good thirty minute investment.  Fourty-five, if you count the fifteen minutes it'd take me to find a screwdriver.  
+Yeah, it's not like your license expires every week, but the one week you may finally catch a break from random errands, that's the week your license expires.  Alone and isolated, the tasks seem manageable, but they join forces and scheme and build strength in numbers and pile on top of each other until you're spending weekend after weekend climbing this hill of never-ending errands.  
+
+A few weeks ago, my friend and I were having a discussion about Pop-Tarts.  I told him I microwave my Pop-Tarts, since I don't want a sticky toaster.  My friend responded with "dude, do you not clean your toaster?"  Naturally, I broke down.  I've never cleaned my toaster in my entire life.  My family's toaster probably still has bread crumbs lurking around from the 1990s.  It never occurred to us that toasters required cleaning.  I just assumed the charred debris and dust particles magically dissolved into the air or melted and absorbed into the toaster itself, maybe making it stronger, and here my friend was, casually mentioning how it was essential to regularly clean your toaster, as if my list of random, mundane, housework wasn't long enough.  Needless to say, my toaster remains a valuable incubator for bread-dwelling bacteria.  How do you even clean a toaster?  Do you have to take that shit apart with a screwdriver or something?  That's a good thirty minute investment.  Fourty-five, if you count the fifteen minutes it'd take me to find a screwdriver.  
 
 A few weeks later, I went to a sleep doctor regarding my insomnia and he told me to walk for 45 minutes facing the sun right after I wake up, each morning of every day.  I spend hours awake in bed each night unable to fall asleep (another huge time sink), so this is a fairly important task, but 45 minutes a day???  Just walking around??  He even explicitly mentioned not to run, so I can't even combine excercise and light therapy to free up some time.  
 
