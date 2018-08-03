@@ -3,8 +3,13 @@
 }
 
 .article-wrap {
-  line-height: 1.5;
+  line-height: 1.6;
   font-size: 1.35rem;
+	font-family: 'Lora', serif;
+}
+
+.article-wrap p {
+	margin: 1.3em 0; 
 }
 
 html {
@@ -16,19 +21,19 @@ html {
   margin: 0 auto;
 }
 
-#index article p{
-	font-size: 1rem;
-}
-
-#index article h2{
-	font-size: 1.35rem;
-}
-
 .article-author-side p, .article-author-bottom p, .author-social {
 	font-size: 1rem;
 }
 #main{
 	margin-top: 0px;
+}
+
+.headline-wrap {
+	margin-bottom: 3.5em;
+}
+
+p code {
+	font-size: 1rem;
 }
 
 h1 {
