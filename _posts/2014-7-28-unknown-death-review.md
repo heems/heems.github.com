@@ -1,8 +1,8 @@
 ---
 title: Review of Unknown Death 2002
-layout: post
+layout: single
 published: true
-description: "I still don't know."
+excerpt: "I still don't know."
 ---
 
 

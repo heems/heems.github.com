@@ -1,8 +1,8 @@
 ---
 title: The Window Opener 2000
-layout: post
+layout: single
 published: true
-description: "My first arduino project."
+excerpt: "My first arduino project."
 ---
 To open my windows, I have to stop whatever I'm doing, rotate my chair 90 degrees, place push my feet against my freezing hardwood floor, walk about 6 feet to my window rod where I have a 30% chance of stubbing my toe on my guitar amp, rotate the blinds for about 5 seconds, walk back to my chair (20% chance of stubbing toe on drawers), sit down, rotate my chair back 90 degrees, and finally rest my hands back on my keyboard and mouse.  This is the 20th century.  I can message someone living across the globe instantaneously; I can sit in a hunk of metal and move it up to 120 miles per hour just by slightly angling my right foot, and yet for some reason, I'm still getting up to open my windows like some uncivilized troglodyte.  
 

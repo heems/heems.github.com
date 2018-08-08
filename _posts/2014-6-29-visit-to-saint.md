@@ -1,8 +1,8 @@
 ---
 title: A Visit to the Hugging Saint
-layout: post
+layout: single
 published: true
-description: "I'm not feeling it."
+excerpt: "I'm not feeling it."
 ---
   
 

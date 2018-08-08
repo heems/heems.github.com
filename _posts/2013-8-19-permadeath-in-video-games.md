@@ -1,7 +1,7 @@
 ---
 title: Permadeath in Video Games
-layout: post
-description: "How permadeath makes me feel in Diablo 3 and Don't Starve."
+layout: single
+excerpt: "How permadeath makes me feel in Diablo 3 and Don't Starve."
 published: true
 ---
 

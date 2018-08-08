@@ -1,41 +1,34 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-{% include _head.html %}
-</head>
+---
+author_profile: true
+layout: default
+---
 
-<body class="home">
-{% include _browser-upgrade.html %}
+<div id="main" role="main">
+	{% include sidebar.html %}
+	<div class="archive">
 
-<div class="article-author-side">
-	  {% include _author-bio.html %}
+		<!-- Begin MailChimp Signup Form -->
+		<style type="text/css">
+			#mc_embed_signup{background:#fff; clear:left;  width:100%; line-height: 1;}
+			#mc_embed_signup form{
+				background: #fff;	
+			}
+			#mc_embed_signup h2{
+				font-family: 'Open Sans', sans-serif;
+			}
+		</style>
+		<div id="mc_embed_signup">
+		<form action="https://karthiksthings.us18.list-manage.com/subscribe/post?u=88e11928666fa9027fae13c17&amp;id=b186ef4c8f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div id="mc_embed_signup_scroll">
+				<label for="mce-EMAIL"><h2>Get fresh posts in your Inbox!</h2></label>
+				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+				<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_88e11928666fa9027fae13c17_b186ef4c8f" tabindex="-1" value=""></div>
+				<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+			</div>
+		</form>
+		</div>
+		<!--End mc_embed_signup-->
+	</div>
 </div>
 
-<div id="index">
-<!-- Begin MailChimp Signup Form -->
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left;  width:100%;}
-</style>
-<div id="mc_embed_signup">
-<form action="https://karthiksthings.us18.list-manage.com/subscribe/post?u=88e11928666fa9027fae13c17&amp;id=b186ef4c8f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-		<label for="mce-EMAIL"><h4>Get fresh posts in your Inbox!</h4></label>
-		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_88e11928666fa9027fae13c17_b186ef4c8f" tabindex="-1" value=""></div>
-		<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-</div>
-
-{% include _scripts.html %}
-  
-</body>
-</html>

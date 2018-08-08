@@ -1,57 +1,83 @@
-title:            Balag
-description:      Writings of Karthik Bala.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              
-disqus_shortname:
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Owner/author information
-owner:
-  name:           Karthik Bala
-  avatar:         blogbg.png
-  bio:            "Student at UT Austin.  I like to write sometimes."
-  email:          karthikbala444@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:         heems
-  stackoverflow:
-  linkedin:
-  instagram:
-  lastfm:         thumbninja
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Karthik Bala
+email: karthikbala444@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Writings on technology, culture, and philosophy.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kbala444
+github_username:  heems
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Build settings
+markdown: kramdown
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+# theme specific
+paginate: 50 # amount of posts to show
+paginate_path: /page:num/
+minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
-future:      true
-highlighter: rouge
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      layout: single
+      read_time: true
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-43061045-2"
+    anonymize_ip: false # default
+
+author:
+  name   : "Karthik Bala"
+  avatar : "/images/blogbg.png"
+  bio    : "Writings on philosophy, technology, and culture. Hit my website to learn more."
+  email  : # optional
+  uri    : "http://karthiksthings.com/"
+  home   : "/" # null (default), "absolute or relative url to link to author home"
+  twitter: kbala444
+  email: karthikbala444@gmail.com
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#
+#

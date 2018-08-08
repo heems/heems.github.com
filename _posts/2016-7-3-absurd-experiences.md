@@ -1,9 +1,9 @@
 ---
 title: Absurd Experiences
-layout: post
-published: true
-description: "*hits blunt*, dude..."
-favorite: true
+layout: single
+excerpt: "*hits blunt*, dude..."
+tags:
+  - fav
 ---
 
 This is based off a response to the question:

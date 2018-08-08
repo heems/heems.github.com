@@ -1,12 +1,14 @@
 ---
 title: There's No Time
-layout: post
-description: "Why I lost my shit when my friend told me he cleans his toaster."
+layout: single
+excerpt: "Why I lost my shit when my friend told me he cleans his toaster."
+tags:
+  - fav
 ---
 
 ### The problem
 
-Your alarm wakes you up at 9:00 a.m.  You eat, make coffee, shower, shave, and are ready for work by ten.  You have an average thirty minute commute to your office.  It's now ten thirty.  You work an average eight hours, leave at six thirty, and get home at seven.  You want to get into bed by 1:00 a.m, so you can hopefully get seven or eight hours of sleep (budgeting for thirty minutes of anxious pre-sleep tossing and turning).  That leaves you with five and a half hours of precious free time-- how should you sepnd it?
+Your alarm wakes you up at 9:00 a.m.  You eat, make coffee, shower, shave, and are ready for work by ten.  You have an average thirty minute commute to your office.  It's now ten thirty.  You work an average eight hours, leave at six thirty, and get home at seven.  You want to get into bed by 1:00 a.m, so you can hopefully get seven or eight hours of sleep (budgeting for thirty minutes of anxious pre-sleep tossing and turning).  That leaves you with five and a half hours of precious free time-- how should you spend it?
 
 Well, you have to eat.  Cooking tops any list of ways to save money and be healthy. You walk to your kitchen, but then remember the last time you tried to cook something. It was a one hour ordeal, you had to clean up afterwards, another ten minutes of mindless labor, and you're currently all out of pepper and the only way to make your god-awful cooking palatable is copius amounts of pepper so if you're going to embark on this cooking thing you're going to have to trek to the grocery store first.  
 
