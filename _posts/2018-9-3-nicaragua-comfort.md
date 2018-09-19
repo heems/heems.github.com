@@ -15,7 +15,8 @@ Unfortunately, the trip mostly just revealed how pampered I am in my daily life 
 Some of our hostels had outdoor bathrooms, many without working electricity. At first, this didn't bother me-- getting some fresh air on the way to the bathroom sounded kind of nice. But, slowly, as we sprung for cheaper and cheaper hostels, it became clear why the first world bathroom is a fortified fixture, with the same anti-creature defenses as the rest of the house. It started subtly-- you hear some scuttles and scrapes at night and start peeing a little faster, or maybe your arm brushes a spider web on the way out, and you shiver a bit, but all of it could be easily rationalized as “nothing to worry about”. 
 
 That is, until, January 3rd, 2018-- a day that still haunts my dreams, a day that has instilled, deep inside me, a poop-based paranoia I will never be able to expel.
- Our taxi driver dropped us off at our hostel (which I will avoid naming so this doesn't turn into a TripAdvisor review) on the island of Ometepe. We heard about it from a fratty backpacker in Rivas who guaranteed it to be a “wild time”. Our driver was confused. 
+
+Our taxi driver dropped us off at our hostel (which I will avoid naming so this doesn't turn into a TripAdvisor review) on the island of Ometepe. We heard about it from a fratty backpacker in Rivas who guaranteed it to be a “wild time”. Our driver was confused. 
 
 “Este hostal es muy feo. ¿Por qué ir aquí?”
 
