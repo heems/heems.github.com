@@ -6,3 +6,8 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.post-image {
+	margin: 44px auto 44px auto !important;
+}
+
