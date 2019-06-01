@@ -257,6 +257,3 @@ DEPENDENCIES
   jekyll-remote-theme
   minimal-mistakes-jekyll
   tzinfo-data
-
-BUNDLED WITH
-   1.16.3
