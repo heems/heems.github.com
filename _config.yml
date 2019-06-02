@@ -56,7 +56,7 @@ analytics:
 author:
   name   : "Karthik Bala"
   avatar : "/images/blogbg.png"
-  bio    : "Writings on philosophy, technology, and culture. Hit my website to learn more."
+  bio    : "Writings on philosophy, technology, and culture."
   email  : # optional
   uri    : "http://karthiksthings.com/"
   home   : "/" # null (default), "absolute or relative url to link to author home"
