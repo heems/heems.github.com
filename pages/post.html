@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ post.title }}</title>
-  </head>
-  <body>
-    <h1>{{ post.title }}</h1>
+{% with title=post.title %}
+{% include 'includes/header.j2' %}
+{% endwith %}
 
-    <small>{{ post.date }}</small>
+<h1>{{ post.title }}</h1>
 
-    {{ post.content }}
-  </body>
-</html>
+<small>{{ post.date }}</small>
+
+{{ post.content }}
+</body>

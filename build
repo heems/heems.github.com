@@ -1,0 +1,4 @@
+#!/bin/bash
+# simple af file watcher
+python gen.py
+while inotifywait -e close_write -r css/ posts/ pages/; do python gen.py; done
