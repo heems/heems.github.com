@@ -1,0 +1,3 @@
+to gen the site and watch file changes, run ./build
+to start a server to test locally, run ./serve
+i will merge these eventually

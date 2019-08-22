@@ -1,4 +1,5 @@
 from markdown2 import markdown
+from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
 import os
 from datetime import datetime
@@ -10,7 +11,14 @@ CSS_DIR = 'css'
 
 env = Environment(loader=FileSystemLoader('./pages/'))
 post_template = env.get_template('post.html')
-index_template = env.get_template('index.html')
+
+def render_about():
+    template = env.get_template('about.html')
+    with open(f'{BUILD_DIR}/about.html', 'w') as file:
+        file.write(template.render())
+
+render_about()
+    
 
 
 POSTS = {}
@@ -27,17 +35,54 @@ def transform_metadata(post):
 
 
 # sort posts by date
+# this should just be a list...
 POSTS = {
     post: transform_metadata(POSTS[post]) for post in sorted(POSTS, key=lambda post: datetime.strptime(POSTS[post].metadata['date'], '%Y-%m-%d'), reverse=True)
 }
 
 
-index_posts_metadata = [POSTS[post].metadata for post in POSTS]
+def render_index():
+    index_posts_metadata = [POSTS[post].metadata for post in POSTS]
 
-index_html_content = index_template.render(posts=index_posts_metadata)
+    index_template = env.get_template('index.html')
+    index_html_content = index_template.render(posts=index_posts_metadata)
 
-with open(f'{BUILD_DIR}/index.html', 'w') as file:
-    file.write(index_html_content)
+    with open(f'{BUILD_DIR}/index.html', 'w') as file:
+        file.write(index_html_content)
+
+render_index()
+
+def render_topics():
+    tags = set()
+    # map of category to list of paths
+    posts_by_category = defaultdict(list)
+    for path, post in POSTS.items():
+        for tag in post.metadata['tags']:
+            tags.add(tag)
+            posts_by_category[tag].append(post.metadata) 
+
+    print('tags are', tags)
+    template = env.get_template('topics.html')
+    # need to pass in list of topics to this template
+    with open(f'{BUILD_DIR}/topics.html', 'w') as file:
+        file.write(template.render(topics=tags))
+
+    topic_template = env.get_template('topic.html')
+    for tag in tags:
+        topic_path = f'{BUILD_DIR}/topics/{tag}/'
+        os.makedirs(os.path.dirname(topic_path), exist_ok=True)
+        with open(f'{topic_path}index.html', 'w') as file:
+            print('writing', tag, posts_by_category[tag])
+            file.write(topic_template.render(topic=tag, posts=posts_by_category[tag]))
+
+    # render a page for each topic
+    # each topic should have a blurb
+
+    
+    print(posts_by_category)
+
+render_topics()
+
 
 for post in POSTS:
     post_metadata = POSTS[post].metadata

@@ -6,12 +6,31 @@ html {
 #container {
   max-width: 960px;
   margin: 0 auto;
+  padding-top: 2vw;
 }
 
 header {
   text-align: center;
+  margin-bottom: 4vw;
 }
 
 #posts {
+  text-align: center;
+}
+
+#nav {
+  margin-bottom: 1vw;
+}
+
+#home-name {
+  font-size: 3em;
+}
+
+#top-bar {
+  text-align: center;
+}
+
+#footer {
+  margin-top: 2vw;
   text-align: center;
 }

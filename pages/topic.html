@@ -1,0 +1,9 @@
+{% extends 'layouts/base.html' %}
+{% block title %}{{ topic }}{% endblock %}
+
+{% block content %}
+<header>
+  <h1>{{ topic }}</h1>
+</header>
+{% include 'includes/posts.html' %}
+{% endblock %}

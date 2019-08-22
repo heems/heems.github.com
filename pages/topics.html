@@ -1,0 +1,12 @@
+{% extends 'layouts/base.html' %}
+{% block title %}topics{% endblock %}
+
+{% block content %}
+{% for topic in topics %}
+
+<h2>
+  <a href="topics/{{ topic }}/">{{ topic }}</a>
+</h2>
+
+{% endfor %}
+{% endblock %}

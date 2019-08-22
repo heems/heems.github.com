@@ -3,7 +3,7 @@ title: The Joy of Personal Websites
 description: whats good
 date: 2016-12-19
 slug: joy-of-personal-websites
-tags: programming,culture
+tags: programming
 ---
 
 A few months ago, I found a fascinating website: [the darnedest thing](http://thedarnedestthing.com/the%20darnedest%20thing).

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="/css/main.css" />
+    <title>{% block title %}{% endblock %}</title>
+    {% endblock %}
+</head>
+<body>
+    <div id="container">
+      {% include 'includes/topbar.html' %}
+      {% block content %}{% endblock %}
+    </div>
+    <div id="footer">
+        whats good
+    </div>
+</body>
+</html>
