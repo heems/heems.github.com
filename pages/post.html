@@ -2,9 +2,12 @@
 {% block title %}{{ post.title }}{% endblock %}
 
 {% block content %}
-<h1>{{ post.title }}</h1>
+<div id="post-container">
+  <div id="post-header">
+    <h1>{{ post.title }}</h1>
+    <div id="post-metadata">{{ post.date }}</div>
+  </div>
 
-<small>{{ post.date }}</small>
-
-{{ post.content }}
+  {{ post.content }}
+</div>
 {% endblock %}

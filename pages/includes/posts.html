@@ -1,16 +1,18 @@
 <div id="posts">
   {% for post in posts %}
 
-  <h2>
-    <a href="posts/{{ post.slug }}/">{{ post.title }}</a>
-  </h2>
-  <small>
-    {{ post.date }} &bull; 
-    {% for tag in post.tags %}
-      {{ tag }}
-    {% endfor %}
-  </small>
-  {{ post.summary }}
+  <div id="post-preview">
+    <h2>
+      <a href="/posts/{{ post.slug }}/">{{ post.title }}</a>
+    </h2>
+    <div id="post-metadata">
+      {{ post.date }} &bull; 
+      {% for tag in post.tags %}
+        <a href="/topics/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {{ post.description }}
+  </div>
 
   {% endfor %}
 </div>

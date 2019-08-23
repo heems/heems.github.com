@@ -61,9 +61,7 @@ def render_topics():
             tags.add(tag)
             posts_by_category[tag].append(post.metadata) 
 
-    print('tags are', tags)
     template = env.get_template('topics.html')
-    # need to pass in list of topics to this template
     with open(f'{BUILD_DIR}/topics.html', 'w') as file:
         file.write(template.render(topics=tags))
 
@@ -75,11 +73,7 @@ def render_topics():
             print('writing', tag, posts_by_category[tag])
             file.write(topic_template.render(topic=tag, posts=posts_by_category[tag]))
 
-    # render a page for each topic
     # each topic should have a blurb
-
-    
-    print(posts_by_category)
 
 render_topics()
 

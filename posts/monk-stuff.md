@@ -27,19 +27,15 @@ When I first moved, this was great. I used to be hedonism's biggest proponent. B
 
 My New York desires are the antithesis of what I want. They're a revolt against nature. Slamming pizza and cocaine at three a.m. when every sane mammal is peacefully asleep, simply because you can, simply because it gives you a small, fleeting, joy to disregard the constraints of schedule and discipline, will not lead to stability and inner peace. Working a menial job eight hours a day to bankroll your bougie tastes in brunch, linens, and excercise bike classes will not lead to self-actualization.
 
-<figure>
-	<img src="https://i.gifer.com/CaR6.gif"/>
-	<figcaption>Friday Nights</figcaption>
-</figure>
+<center><img class="post-image" src="https://i.gifer.com/CaR6.gif"/></center>
+<span class="image-caption">Saturday Mornings</span>
 
 I'm starting to value my energy over everything. I'm not willing to jetlag myself multiple times a week by passing out at five a.m., then spending the rest of the week recovering, and on Friday, when I'm finally beginning to feel good again, when the fried cheese has been digested and my neurotransmitters have regulated themselves and my over-taxed liver has scrubbed the last bits of Svedka out of my system, I call up my friends to fuck it all up again.
 
 I want to wake up with the sunrise. I want to be one of those insufferable people who jumps out of bed excited about their rolled oats and morning jog, not someone who pulls their crusty eyelids apart at two p.m., tangled in a mess of blankets, and spends an hour intermittently groaning, browsing reddit, and deciding what to Seamless.
 
-<figure>
-  <img src="https://i.imgur.com/nUHZHRO.png"/>
-  <figcaption>Saturday Mornings</figcaption>
-</figure>
+<center><img class="post-image" src="https://i.imgur.com/nUHZHRO.png"/></center>
+<span class="image-caption">Saturday Mornings</span>
 
 But it's hard to make dramatic lifestyle changes when you're entrenched in your habits. If you're a stoic with boundless self-discipline you can fix yourself whenever you want, but I am not a stoic with boundless self-discipline. To enact change, I needed a forced break of habits, and in that malleable state free from my normal life script, I'd be able to write myself a new one.
 
@@ -67,7 +63,7 @@ The ashram lacked stimulation. There was nothing to do there besides yoga, praye
 
 As part of my transformation from techie hyper-rationalist to new age quack doctor, I've started to believe in vibrations. Not Physics Vibrations-- I've always believed particles can move back and forth really fast. I'm talking about "Good Vibes Only" kinda vibrations, the hippie stuff.
 
-<center><img class="post-image" src="https://i.pinimg.com/originals/5b/83/5d/5b835d7bdbc292762664caddd7b664f4.jpg" width="300"/></center>
+<center><img class="post-image" src="https://i.pinimg.com/originals/5b/83/5d/5b835d7bdbc292762664caddd7b664f4.jpg"/></center>
 
 There are certain locations and orientations in the world, where, for reasons I don't understand, you feel differently just by being there. And before you say "obviously you feel happier on a beach in Bali than in a sewer in Detroit", I want to say it's more subtle than that. You will feel different in an all-white, windowless room next to the Ganges River than in an all-white, windowless room next to a cemetery. Even if you have no idea what's outside the room, you will feel a difference in 'vibrations'.
 
@@ -148,6 +144,6 @@ I didn't have any transcendental experiences. I think I'd need to meet someone l
 
 But I did experience a new kind of real, persistent, peace and happiness. If only for that week.
 
-<img class="post-image" src="https://66.media.tumblr.com/0931dce1e1a7255f68e669122eed17b1/tumblr_nrsfacELsh1qckzoqo2_500.gif"/>
+<center><img class="post-image" src="https://66.media.tumblr.com/0931dce1e1a7255f68e669122eed17b1/tumblr_nrsfacELsh1qckzoqo2_500.gif"/></center>
 
 On my last day, I stood still and watched rain falling into the lake by the dining hall, the thousands of little circles expanding into nothing, and while I still didn't feel awe or see a deity's reflection in the lake, I did feel this serenity emerging from a feeling of connectedness with the scene in front of me. I wonder if that's the Self.
