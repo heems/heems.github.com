@@ -27,15 +27,19 @@ When I first moved, this was great. I used to be hedonism's biggest proponent. B
 
 My New York desires are the antithesis of what I want. They're a revolt against nature. Slamming pizza and cocaine at three a.m. when every sane mammal is peacefully asleep, simply because you can, simply because it gives you a small, fleeting, joy to disregard the constraints of schedule and discipline, will not lead to stability and inner peace. Working a menial job eight hours a day to bankroll your bougie tastes in brunch, linens, and excercise bike classes will not lead to self-actualization.
 
-<center><img class="post-image" src="https://i.gifer.com/CaR6.gif"/></center>
-<span class="image-caption">Saturday Mornings</span>
+<center>
+<img class="post-image" src="https://i.gifer.com/CaR6.gif"/>
+<div class="image-caption">Friday Nights</div>
+</center>
 
 I'm starting to value my energy over everything. I'm not willing to jetlag myself multiple times a week by passing out at five a.m., then spending the rest of the week recovering, and on Friday, when I'm finally beginning to feel good again, when the fried cheese has been digested and my neurotransmitters have regulated themselves and my over-taxed liver has scrubbed the last bits of Svedka out of my system, I call up my friends to fuck it all up again.
 
 I want to wake up with the sunrise. I want to be one of those insufferable people who jumps out of bed excited about their rolled oats and morning jog, not someone who pulls their crusty eyelids apart at two p.m., tangled in a mess of blankets, and spends an hour intermittently groaning, browsing reddit, and deciding what to Seamless.
 
-<center><img class="post-image" src="https://i.imgur.com/nUHZHRO.png"/></center>
-<span class="image-caption">Saturday Mornings</span>
+<center>
+<img class="post-image" src="https://i.imgur.com/nUHZHRO.png"/>
+<div class="image-caption">Saturday Mornings</div>
+</center>
 
 But it's hard to make dramatic lifestyle changes when you're entrenched in your habits. If you're a stoic with boundless self-discipline you can fix yourself whenever you want, but I am not a stoic with boundless self-discipline. To enact change, I needed a forced break of habits, and in that malleable state free from my normal life script, I'd be able to write myself a new one.
 

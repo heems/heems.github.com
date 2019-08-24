@@ -1,0 +1,4 @@
+{{ post.date }} &bull; 
+{% for tag in post.tags %}
+  <a class="link" href="/topics/{{ tag }}">{{ tag }}</a>
+{% endfor %}

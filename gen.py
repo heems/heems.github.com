@@ -12,13 +12,14 @@ CSS_DIR = 'css'
 env = Environment(loader=FileSystemLoader('./pages/'))
 post_template = env.get_template('post.html')
 
+
 def render_about():
     template = env.get_template('about.html')
     with open(f'{BUILD_DIR}/about.html', 'w') as file:
         file.write(template.render())
 
+
 render_about()
-    
 
 
 POSTS = {}
@@ -50,7 +51,9 @@ def render_index():
     with open(f'{BUILD_DIR}/index.html', 'w') as file:
         file.write(index_html_content)
 
+
 render_index()
+
 
 def render_topics():
     tags = set()
@@ -59,7 +62,7 @@ def render_topics():
     for path, post in POSTS.items():
         for tag in post.metadata['tags']:
             tags.add(tag)
-            posts_by_category[tag].append(post.metadata) 
+            posts_by_category[tag].append(post.metadata)
 
     template = env.get_template('topics.html')
     with open(f'{BUILD_DIR}/topics.html', 'w') as file:
@@ -71,9 +74,11 @@ def render_topics():
         os.makedirs(os.path.dirname(topic_path), exist_ok=True)
         with open(f'{topic_path}index.html', 'w') as file:
             print('writing', tag, posts_by_category[tag])
-            file.write(topic_template.render(topic=tag, posts=posts_by_category[tag]))
+            file.write(topic_template.render(
+                topic=tag, posts=posts_by_category[tag]))
 
     # each topic should have a blurb
+
 
 render_topics()
 
@@ -85,6 +90,7 @@ for post in POSTS:
         'content': POSTS[post],
         'title': post_metadata['title'],
         'date': post_metadata['date'],
+        'tags': post_metadata['tags'],
     }
 
     post_html_content = post_template.render(post=post_data)

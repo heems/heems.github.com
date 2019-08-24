@@ -2,11 +2,18 @@
 {% block title %}topics{% endblock %}
 
 {% block content %}
-{% for topic in topics %}
+<div class="center-text separated">
+    <h1>TOPICS</h1>
+  <div id="topics-grid">
+    {% for topic in topics %}
+    <a href="/topics/{{ topic }}/">
+      <div id="topic" class="bordered">
+        <h2>{{ topic }}</h2>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
 
-<h2>
-  <a href="/topics/{{ topic }}/">{{ topic }}</a>
-</h2>
-
-{% endfor %}
+</div>
 {% endblock %}

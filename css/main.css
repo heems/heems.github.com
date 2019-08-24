@@ -17,11 +17,19 @@ a {
   text-decoration: inherit;
 }
 
+.center-text {
+  text-align: center;
+}
+
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
     "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 18px;
   color: var(--subheader-color);
+}
+
+.separated {
+  margin-top: 1em;
 }
 
 #container {
@@ -30,17 +38,33 @@ html {
   padding-top: 2vw;
 }
 
+#topics-grid {
+  display: grid;
+  margin-top: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 0.5rem;
+  text-align: center;
+}
+
+#topic {
+  padding: 0.5em;
+}
+
 #post-container {
   max-width: 645px;
   width: 100%;
   margin: 0 auto;
   color: var(--body-color);
+  line-height: 1.5;
 }
 
-#post-preview {
+.bordered {
   border-style: solid;
   border-width: 2px;
   border-color: var(--header-color);
+}
+
+#post-preview {
   margin: 1em 0 1em 0;
   padding: 2em;
   text-align: left;
@@ -58,6 +82,20 @@ html {
 #post-header {
   text-align: center;
   font-size: 1.5em;
+  margin: 1em 0 1em 0;
+  padding: 1em;
+}
+
+#post-metadata {
+  margin-top: 0.5em;
+}
+
+#post-subheader {
+  font-size: 1rem;
+}
+
+.link {
+  text-decoration: underline;
 }
 
 header {
@@ -74,6 +112,10 @@ header {
   margin-bottom: 1vw;
 }
 
+#nav a {
+  margin: 0 0.2vw 0 0.2vw;
+}
+
 #home-name {
   font-size: 2em;
   font-weight: 700;
@@ -87,4 +129,9 @@ header {
 #footer {
   margin-top: 2vw;
   text-align: center;
+}
+
+.image-caption {
+  margin-top: -1em;
+  opacity: 0.8;
 }

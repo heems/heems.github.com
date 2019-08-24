@@ -3,9 +3,11 @@
 
 {% block content %}
 <div id="post-container">
-  <div id="post-header">
+  <div class="bordered" id="post-header">
     <h1>{{ post.title }}</h1>
-    <div id="post-metadata">{{ post.date }}</div>
+    <div id="post-subheader">
+      {% include 'includes/postmetadata.html' %}
+    </div>
   </div>
 
   {{ post.content }}
