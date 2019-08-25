@@ -14,9 +14,12 @@ post_template = env.get_template('post.html')
 
 
 def render_about():
+    with open('./misc/about.md', 'r') as file:
+        about_content = markdown(file.read())
+
     template = env.get_template('about.html')
     with open(f'{BUILD_DIR}/about.html', 'w') as file:
-        file.write(template.render())
+        file.write(template.render(about={'content': about_content}))
 
 
 render_about()
@@ -73,7 +76,6 @@ def render_topics():
         topic_path = f'{BUILD_DIR}/topics/{tag}/'
         os.makedirs(os.path.dirname(topic_path), exist_ok=True)
         with open(f'{topic_path}index.html', 'w') as file:
-            print('writing', tag, posts_by_category[tag])
             file.write(topic_template.render(
                 topic=tag, posts=posts_by_category[tag]))
 

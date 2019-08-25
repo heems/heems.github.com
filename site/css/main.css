@@ -103,6 +103,11 @@ header {
   margin-bottom: 4vw;
 }
 
+.skinny {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 #posts {
   max-width: 500px;
   margin: 0 auto;
