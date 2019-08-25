@@ -34,7 +34,8 @@ for markdown_post in os.listdir(POSTS_DIR):
 
 
 def transform_metadata(post):
-    post.metadata['tags'] = post.metadata['tags'].split(',')
+    if 'tags' in post.metadata:
+        post.metadata['tags'] = post.metadata['tags'].split(',')
     return post
 
 
@@ -63,7 +64,7 @@ def render_topics():
     # map of category to list of paths
     posts_by_category = defaultdict(list)
     for path, post in POSTS.items():
-        for tag in post.metadata['tags']:
+        for tag in post.metadata.get('tags', []):
             tags.add(tag)
             posts_by_category[tag].append(post.metadata)
 
@@ -92,7 +93,7 @@ for post in POSTS:
         'content': POSTS[post],
         'title': post_metadata['title'],
         'date': post_metadata['date'],
-        'tags': post_metadata['tags'],
+        'tags': post_metadata.get('tags', []),
     }
 
     post_html_content = post_template.render(post=post_data)
