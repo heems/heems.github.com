@@ -1,7 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --header-color: #488ac5;
   --subheader-color: #3d608d;
   --body-color: #242424;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
 }
 
 h1,
@@ -32,10 +41,17 @@ html {
   margin-top: 1em;
 }
 
+#page-container {
+  min-height: 100vh;
+  position: relative;
+}
+
 #container {
   max-width: 960px;
   margin: 0 auto;
   padding-top: 2vw;
+  /* for footer (which is 9em) */
+  padding-bottom: 11em;
 }
 
 #topics-grid {
@@ -134,6 +150,12 @@ header {
 #footer {
   margin-top: 2vw;
   text-align: center;
+  background-color: var(--header-color);
+  color: white;
+  padding: 1em 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .image-caption {
