@@ -1,3 +1,5 @@
 to gen the site and watch file changes, run ./build
 to start a server to test locally, run ./serve
+to ngrok, ./ngrok http 8000 (ngrok is in ~/Downloads/programs rn)
+
 i will merge these eventually

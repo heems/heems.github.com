@@ -13,13 +13,24 @@ env = Environment(loader=FileSystemLoader('./pages/'))
 post_template = env.get_template('post.html')
 
 
+def render_page(template_name, **kwargs):
+    template = env.get_template(f'{template_name}.html')
+    with open(f'{BUILD_DIR}/{template_name}.html', 'w') as file:
+        file.write(template.render(**kwargs))
+
+
+render_page('follow')
+
+
 def render_about():
     with open('./misc/about.md', 'r') as file:
         about_content = markdown(file.read())
 
-    template = env.get_template('about.html')
-    with open(f'{BUILD_DIR}/about.html', 'w') as file:
-        file.write(template.render(about={'content': about_content}))
+    render_page('about', about={'content': about_content})
+
+    # template = env.get_template('about.html')
+    # with open(f'{BUILD_DIR}/about.html', 'w') as file:
+    #     file.write(template.render(about={'content': about_content}))
 
 
 render_about()
@@ -50,10 +61,7 @@ def render_index():
     index_posts_metadata = [POSTS[post].metadata for post in POSTS]
 
     index_template = env.get_template('index.html')
-    index_html_content = index_template.render(posts=index_posts_metadata)
-
-    with open(f'{BUILD_DIR}/index.html', 'w') as file:
-        file.write(index_html_content)
+    render_page('index', posts=index_posts_metadata)
 
 
 render_index()
