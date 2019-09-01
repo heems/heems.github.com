@@ -12,15 +12,21 @@ _If you're considering buying one of these babies yourself, please note that the
 
 Once we had the rafts, we needed a location. No longer restricted by boat rental services and docks, we could go anywhere-- raft anything. Invigorated by this newfound freedom, we opened up Google Maps and scrolled around, searching for interesting patches of blue. We weren't just going to lounge around a lake drinking beers and talking (which, in retrospect, is probably the main use case of these rafts). We were Lewis and Clark, about to conquer unchartered, dangerous, land in the Challenger 2.
 
-![](/images/rafting/brownsisland.png){:height="400px" width="400px"}.
+![](/images/rafting/brownsisland.png)
 
 The first obstacle with unauthorized rafting is figuring out where to launch from. After a few minutes of lackluster surveillance, we chose to believe that all the easy access points to the New York Slough were gated by a private dock. Advanced maneuvering was required. After driving around for a bit and climbing over a few rocks, we ended up here.
 
-{% include figure image_path="/images/rafting/swamp.png" caption="Matching unintentional." %}
+<center>
+<img src="/images/rafting/swamp.png"/>
+<div class="image-caption">Matching unintentional.</div>
+</center>
 
 After thoroughly fucking up our shoes, we trekked out far enough to gauge the water speed. There was a steady, strong, current. We looked at the current, imagined us in the current with our budget, toy, rafts and malleable oars, considered our utter lack of boating experience, and trudged back to the car. With fading morale, we decide to cut our losses and just head to Lake Merritt in Oakland, a steep downgrade from rafting through a random Slough to some island. It was a cop out, but at that point we just wanted to be in the water. Adventure would wait.
 
-{% include figure image_path="/images/rafting/cozy.png" caption="The S.S. Shit Show. Picture ripped from [Norman's](http://normanmu.com/) snapchat." %}
+<center>
+<img src="/images/rafting/cozy.png"/>
+<div class="image-caption">The S.S. Shit Show. Picture ripped from <a href="http://normanmu.com/">Norman's</a> snapchat.</div>
+</center>
 
 Lake Merritt is _intended_ for boating. By virtue of this fact, I believed rafting there would be kindergarten shit. We soon realized, however, that incompetence can turn even the calmest of waters into class VI rapids.
 
@@ -30,7 +36,10 @@ This summer I've come to love being on the water. Drifting down an open blue lak
 
 Until we drifted all the way across the lake and straight into a pool of heavy moss.
 
-![](/images/rafting/stranded.png "ah shit")
+<center>
+<img src="/images/rafting/stranded.png"/>
+<div class="image-caption">ah shit</div>
+</center>
 
 Lake Merritt gets crowded on summer Saturdays. Right next to the bustling sidewalk perimeter was the most embarassing spot to get stuck in our piss colored Challenger 2's. We ended up on quite a few snapchat stories. I expected some helpful advice from the onlooking Oakland denizens, hoping this was a normal problem for casual boaters, but apparently rafting into moss is a rare predicament. As we were contemplating how fucked we were, we heard a faint "Y'ALL ARE SO FUCKED!" from a rollerblader scooting by, which helped us precisely determine the fuckedness of our situation. Our hysterical laughter rendered us unable to move, and we drifted further into the moss.
 

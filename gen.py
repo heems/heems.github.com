@@ -28,10 +28,6 @@ def render_about():
 
     render_page('about', about={'content': about_content})
 
-    # template = env.get_template('about.html')
-    # with open(f'{BUILD_DIR}/about.html', 'w') as file:
-    #     file.write(template.render(about={'content': about_content}))
-
 
 render_about()
 

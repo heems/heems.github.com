@@ -9,7 +9,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 3px;
   min-height: 100vh;
 }
 
@@ -23,7 +23,11 @@ h4 {
 
 a {
   color: inherit;
-  text-decoration: inherit;
+  text-decoration: underline;
+}
+
+#top-bar a {
+  text-decoration: none;
 }
 
 .center-text {
@@ -35,6 +39,12 @@ html {
     "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 18px;
   color: var(--subheader-color);
+}
+
+@media only screen and (min-width: 800px) {
+  html {
+    font-size: 22px;
+  }
 }
 
 .separated {
@@ -120,7 +130,7 @@ header {
 }
 
 .skinny {
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
@@ -174,6 +184,13 @@ header {
   margin: 1em 1em;
   min-width: 350px;
   text-align: center;
+}
+
+blockquote {
+  margin: 2em 1em 2em 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-left: 0.25em solid var(--header-color);
 }
 
 #mc_embed_signup_scroll input.button {

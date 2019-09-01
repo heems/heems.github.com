@@ -28,7 +28,7 @@ When I first moved, this was great. I used to be hedonism's biggest proponent. B
 My New York desires are the antithesis of what I want. They're a revolt against nature. Slamming pizza and cocaine at three a.m. when every sane mammal is peacefully asleep, simply because you can, simply because it gives you a small, fleeting, joy to disregard the constraints of schedule and discipline, will not lead to stability and inner peace. Working a menial job eight hours a day to bankroll your bougie tastes in brunch, linens, and excercise bike classes will not lead to self-actualization.
 
 <center>
-<img class="post-image" src="https://i.gifer.com/CaR6.gif"/>
+<img src="https://i.gifer.com/CaR6.gif"/>
 <div class="image-caption">Friday Nights</div>
 </center>
 
