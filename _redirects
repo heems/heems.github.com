@@ -1,1 +1,2 @@
-/:year/:month/:day/:slug.html /:slug/
+/2019/08/31/trust-grandmas.html /posts/trust-grandmas/
+/:year/:month/:day/:slug.html /posts/:slug/
