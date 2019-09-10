@@ -9,5 +9,3 @@ i'm a guy from california who majored in computer science but didn't like it nea
 so now i'm studying ayurveda and spirituality to understand how i can best heal myself and others
 
 this blog is the byproduct of whatever i've been thinking about. it's mainly to provoke a discussion with you, so send me your thoughts.
-
-#### longer bio coming soon
