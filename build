@@ -4,4 +4,5 @@ source /home/karthik/code/heems.github.io/env/bin/activate
 python gen.py
 # copy images over
 cp -r images site/images
+cp _redirects site/_redirects
 while inotifywait -e close_write -r css/ posts/ pages/ misc/; do python gen.py; done
