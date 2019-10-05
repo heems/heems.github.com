@@ -3,6 +3,6 @@ source /home/karthik/code/heems.github.io/env/bin/activate
 # simple af file watcher
 python gen.py
 # copy images over
-cp -r images site/images
+cp -r images site/
 cp _redirects site/_redirects
 while inotifywait -e close_write -r css/ posts/ pages/ misc/; do python gen.py; done

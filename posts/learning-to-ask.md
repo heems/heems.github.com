@@ -1,0 +1,123 @@
+---
+title: Learning To Ask
+description: Never asking for help subtly reinforced a sense of separateness from society, narrowing the scope of my love, involvement, and responsibility.
+date: 2019-10-05
+slug: learning-to-ask
+tags: life
+---
+
+Growing up, I never asked for anything. 
+
+My problems were my own. Why should anyone else help me?
+
+Asking for more than what was offered felt rude, entitled, imposing. I took it a bit too far.
+
+At restaurants, I'd rather eat food I didn't like than ask for substitutions. *Ah I don't want to be needy, I'll just endure the pickles.*(Here I'd be asking for LESS than what's offered but in my deranged mind omitting ingredients seemed like "extra work" for the cook and waiter).
+
+I wouldn't use the bathroom of a McDonald's without buying something first. No matter how full my bladder was. 
+
+I'd have rather missed my flight than ask an agent if I could cut the security line.
+
+Part of my apprehension was moral. I thought we should act how we want everyone else to act. What if everyone just started cutting in the security line? No one would show up for their flights early enough. The strongest people would show up seconds to boarding and just shove to the front and society would crumble.
+
+Part of it came from spending so much time on the internet. Everyone on the internet is mad all the time. Over nothing. Every post, doesn't matter if it's about religion or baby elephant gifs, contains at least one, usually several,  outraged comments about the post being stupid or stolen or fake or disrespectful or a shill for a corporation, etc, etc.
+
+<center>
+<img src="/images/angry-reax.png"/>
+</center>
+
+A few years of steeping myself in outrage culture and I started walking around on eggshells thinking everyone is an inch away from outrage-- one "oh, and no pickles please" away from shooting up a Shake Shack.
+
+### People like to help
+
+It was a Monday night and I was too brain-dead to choose content to watch so I let YouTube's related videos algorithm have it's way with me.
+
+A few hours in, I found a thirty video playlist where this guy, Jia Jiang, films himself asking strangers for things. He asks Abercrombie if they'd let him pose as a "live mannequin", he asks Subway if he could assemble his own sandwich, he asks a stranger if he could play soccer in their backyard.
+
+[In one video](https://www.youtube.com/watch?v=G0AeZuae3sc&t=6s), he asks a barista to teach him how to make a chai latte. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0AeZuae3sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If someone dared me to do that, I'd think one of:
+
+"No that's so annoying, they have work to do and I'd be bothering them."
+
+"I can't just ask for a free lesson. I value people's time. That's rude."
+
+"Why would she let me do that?"
+
+I'd get stuck in some insane daydream where I ask the barista to teach me how to make a chai latte and she begrudgingly accepts because she wants to her boss to see her going "above and beyond" since she's vying for a promotion but secretly she wants to spit in my coffee for filling the few rare moments of silence in her day with more shit to do and I feel unbearably awkward throughout the whole ordeal because she keeps sighing and muttering and looking at the clock and through my entitlement I have made life much worse for us both.
+
+Thankfully, Jiang has, through these exercises, built an immunity to this brand of insane daydream, and without over-apologizing or sweating profusely, he casually asks the barista to teach him how to make a chai latte. 
+
+And what happens? Does she stare at him menacingly until he leaves? Does she pretend not to hear him and hope he acts like a normal customer?
+
+Nothing of the sort. With a huge smile on her face, the barista tells him to hop behind the counter and walks him through the whole chai latte process. She even says, "you're awesome for asking!" and gives him a discount on the drink.
+
+This is real life. She's not a paid actor. Well she might be, I guess I have no way of knowing. I doubt it though. 
+
+Jiang's videos made me realize my contrived worst case scenarios NEVER HAPPEN. It's all in my head. Whether his request is fulfilled or not, the vast majority of his videos end on a positive note.
+
+My view of reality is so cluttered by mental baggage and conditioning that the situation "ask an idle human with a skill to teach you that skill in a few minutes" seems like "piss off this barista with your dumbass request". I'm filtering a normal situation through a negative lens for no good reason.
+
+I mean, sure, my daydream is technically still in the realm of possibilities. Maybe the barista is having the absolute worst day and throws steamed milk in my face before I can even finish the question. But you can't live life in constant anticipation of the improbable worst case. You'd end up living in a bunker underground, eating canned beans with a spoon, dreading an apocalyptic solar flare. 
+
+My train of thought around asking for things used to go like this:
+
+> *Fuck, I'm completely lost and my phone's dead, I gotta ask one of these strangers for directions.*
+
+> *Ah the girl next to me looks nice. Oh no wait she has headphones in. She could be listening to the climax of The Road I don't want to ruin that experience. Ah there's a dude just standing there, maybe I'll ask him. Oh wait his arms are crossed. There was that Ted Talk about body language that said you're an asshole if you're arms are crossed-- or something like that. Oh ok ok there's an old lady with a pleasant expression approaching. Wait she looks really old, what if she's senile? Well her gait looks normal I feel like senile people would be more wobbly or something-- or are they? What does senile even mean, really? Fuck it I'm just going to ask her, it's happening, here we go-- wait FUCK she's definitely frowning shit abort she is 100% not trying to give me directions.*
+
+But these neurotic snap judgments based on bullshit signals are never accurate. People are always much nicer than I expect. People want to help and be helped. It's what gives us a sense of community.
+
+<center>
+<img src="/images/learn-to-ask.png"/>
+</center>
+
+### My experience
+
+Since watching those videos, I've made some baby steps. 
+
+I've asked: 
+
+* a bartender at a $$$ cocktail lounge if I could have a mangled orange since they were only using the rinds
+* bodega cashiers if they could help me open up a can of codensed milk since I don't have a can opener
+* a stranger reading [Tao Lin](http://karthiksthings.com/taolin.html) for book recommendations.
+
+All of these people seemed pissed off to me when I approached them. Especially the bodega cashiers. Bodega people look pissed all the time. But as soon as I ask for help, their kindness shatters my negative filters and slowly the world seems increasingly friendlier. 
+
+Asking for help has also made me more cognizant of other people in need.
+
+Normally, I walk around stuck in thought, cutting myself off from the world with tunnel vision and noise-cancelling headphones. It takes a lot to cut through to my awareness. I barely notice sirens-- I'll stroll in front of an ambulance like it's a Kid Trax coupe. Lumped into "situations I don't really notice" are people in need of help. I'll power-walk past a homeless dude with one leg shlumped on the street next to a sad, cardboard without even considering if I should help out, like a psychopath.
+
+I'm not *consciously* ignoring him, I'm just not paying attention. Homeless people are all over Manhattan, I just filter them out. My subconscious doesn't think it's important. It's too busy spinning up a daydream of Yung Gravy calling calling me up on stage to rap Lil Baby's verse on Alley Oop. You know, more important shit. 
+
+But after asking for more help, people in need have been puncturing my bubble of inattentiveness. I'll still daydream about crowd-surfing after I kill the verse, but when the homeless dude comes into sight, I'll snap back to reality and actually pay attention. Here's a guy in front of me, pained in some way, missing a whole leg, asking for some change, and I just spent $7 on cashew milk ice cream. Now I'm not Gandhi, I don't expect to give money to every person sitting on the street, but at the very least I should *pay attention*, take a glance at the sign and consider whether or not I should. 
+
+Here's my theory as to why my awareness for others is improving. Getting help from others nudges you towards seeing the world as one large community where everyone is looking out for each other. This strengthens my subconscious sense of everyday duty to strangers which sharpens my ambient perception of people in need. 
+
+Never asking for help reinforces a sense of separateness from society. This emotional distance narrows the scope of my love, involvement, and responsibility-- the big emotions that drive interpersonal action-- and so the old man trying to carry three suitcases up the subway station stairs no longer penetrates my awareness as a situation that needs to be acted upon, but melds into the rest of my environment and simply becomes "a thing I shouldn't walk into".
+
+### When to ask?
+
+Obviously, asking for too much is still annoying.
+
+Asking to cut in line, for example, still seems rude. You wish to make everyone wait longer with the implicit reasoning of "your time is worth less than mine".
+
+But then where do you draw the line? What about asking a stranger for directions? You're still taking up their time right? You take up much more time asking a stranger for detailed directions than cutting them in line at a concert.
+
+The heuristic I'm trying to go with is to just ask from a core of good intention. 
+
+As long as it 
+
+1. comes from a place of good intent (I don't want to pretend to be homeless and ask kind-hearted strangers to buy me free food, but asking a bar to sell me a mangled orange seems fine) 
+
+2. I'm socially aware enough to drop the request if the questionee seems uncomfortable or annoyed
+
+I should ask. 
+
+Hearing a question takes ten seconds max. If you can recognize when you're bothering someone in the moment--  the moment AFTER YOU ASK, don't IMAGINE yourself bothering them and let that fake shit stifle you-- and are acting from a core of good intention, you shouldn't feel bad asking. 
+
+That's what we're here for.
+
+![](https://cdn.pixabay.com/photo/2014/11/19/02/27/comfort-536896_960_720.jpg)
