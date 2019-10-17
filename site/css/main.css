@@ -82,7 +82,7 @@ html {
 }
 
 #post-container {
-  max-width: 800px;
+  max-width: 625px;
   width: 100%;
   margin: 0 auto;
   color: var(--body-color);
