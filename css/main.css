@@ -21,6 +21,11 @@ h4 {
   margin: 0;
 }
 
+#post-container h1 {
+  line-height: 1.25;
+  font-size: 1.25em;
+}
+
 a {
   color: inherit;
   text-decoration: underline;
@@ -77,11 +82,12 @@ html {
 }
 
 #post-container {
-  max-width: 645px;
+  max-width: 800px;
   width: 100%;
   margin: 0 auto;
   color: var(--body-color);
   line-height: 1.5;
+  padding: 0 .5em 0 .5em;
 }
 
 .bordered {
