@@ -1,7 +1,7 @@
 ---
 title: Cosmic Trigger by Robert Anton Wilson, Discussion and Review
-description: There are an infinite number of signals in the world. We create our reality by paying attention to a subset of these. You can create whatever you want.
-date: 2019-11-09
+description: There are an infinite number of signals in the world. We create our reality by paying attention to a subset of these. By picking what signals you pay attention to, by picking your "reality tunnel", you can create the world you want.
+date: 2019-11-04
 slug: cosmic-trigger-robert-anton-wilson-notes
 tags: reviews,books
 ---
@@ -10,7 +10,7 @@ http://www.bookbumblings.com/seo-for-book-reviews/
 
 I think RAW's philosophy is something like:
 
-There are an infinite number of signals in the world. We create our reality by paying attention to a subset of these. You can create whatever you want.
+There are an infinite number of signals in the world. We create our reality by paying attention to a subset of these. By picking what signals you pay attention to, by picking your "reality tunnel", you can create the world you want.
 
 Which is an interesting way of looking at the world.
 
