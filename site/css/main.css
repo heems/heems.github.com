@@ -3,9 +3,22 @@
 }
 
 :root {
-  --header-color: #488ac5;
+  /* --header-color: #488ac5;
   --subheader-color: #3d608d;
+  --body-color: #242424; */
+
+  /* --header-color: #8C2626;
+  --subheader-color: #8C2626;
   --body-color: #242424;
+  --bg-color: #ffffe1;
+  --accent-color: #8C2626; */
+
+  --header-color: #171d67;
+  --subheader-color: #171d67;
+  --body-color: #242424;
+  --bg-color: #ffffff;
+  --accent-color: #d1f9ff;
+  --box-color: #50e3c2;
 }
 
 body {
@@ -21,9 +34,14 @@ h4 {
   margin: 0;
 }
 
-#post-container h1 {
+#post-container h1, h2 {
   line-height: 1.25;
   font-size: 1.25em;
+}
+
+#post-container h3 {
+  line-height: 1.25;
+  font-size: 1.15em;
 }
 
 a {
@@ -44,6 +62,7 @@ html {
     "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 18px;
   color: var(--subheader-color);
+  background-color: var(--bg-color);
 }
 
 @media only screen and (min-width: 800px) {
@@ -91,9 +110,14 @@ html {
 }
 
 .bordered {
-  border-style: solid;
+  /* border-style: solid;
   border-width: 2px;
-  border-color: var(--header-color);
+  border-color: var(--header-color); */
+
+  /* background-color: #d1f9ff;
+  box-shadow: 10px 8px 0 0 #50e3c2; */
+  background-color: var(--box-color);
+  box-shadow: 10px 8px 0 0 var(--accent-color);
 }
 
 #post-preview {
