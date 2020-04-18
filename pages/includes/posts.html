@@ -1,7 +1,11 @@
 <div class="skinny">
+  <div id="posts-toggle-bar">
+    <a href="#" id="posts-btn" class="posts-toggle-btn" onclick="showPosts()">posts</a>
+    <a href="#" id="notes-btn" class="posts-toggle-btn" onclick="showNotes()">notes</a>
+  </div>
   {% for post in posts %}
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered {{ post.type | default('post') }}" id="post-preview">
     <h2 class="link">
       <a href="/posts/{{ post.slug }}/">{{ post.title }}</a>
     </h2>
@@ -14,3 +18,35 @@
 
   {% endfor %}
 </div>
+
+<script type="text/javascript">
+  var notes = document.getElementsByClassName('note');
+  var posts = document.getElementsByClassName('post');
+  notesBtn = document.getElementById('notes-btn');
+  postsBtn = document.getElementById('posts-btn');
+  showPosts();  
+
+  function showNotes() {
+    notesBtn.classList.add('toggle-selected');
+    postsBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "block"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "none"; 
+    }    
+  }
+
+  function showPosts() {
+    postsBtn.classList.add('toggle-selected');
+    notesBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "none"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "block"; 
+    }
+  }
+</script>

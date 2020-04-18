@@ -34,9 +34,13 @@
   <h1>life</h1>
 </header>
 <div class="skinny">
+  <div id="posts-toggle-bar">
+    <a href="#" id="posts-btn" class="posts-toggle-btn" onclick="showPosts()">posts</a>
+    <a href="#" id="notes-btn" class="posts-toggle-btn" onclick="showNotes()">notes</a>
+  </div>
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/meowing/">The Time I Crawled Around A Strangers Apartment Meowing</a>
     </h2>
@@ -52,7 +56,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/learning-to-ask/">Learning To Ask</a>
     </h2>
@@ -68,7 +72,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/monk-stuff/">Monk Stuff</a>
     </h2>
@@ -86,7 +90,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/it-gets-better/">It Gets Better</a>
     </h2>
@@ -104,7 +108,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/nicaragua-comforts/">Nicaragua: Comforts</a>
     </h2>
@@ -122,7 +126,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/theres-no-time/">There's No Time</a>
     </h2>
@@ -138,7 +142,7 @@
 
   
 
-  <div class="bordered" id="post-preview">
+  <div class="bordered post" id="post-preview">
     <h2 class="link">
       <a href="/posts/absurd-experiences/">Absurd Experiences</a>
     </h2>
@@ -156,6 +160,38 @@
 
   
 </div>
+
+<script type="text/javascript">
+  var notes = document.getElementsByClassName('note');
+  var posts = document.getElementsByClassName('post');
+  notesBtn = document.getElementById('notes-btn');
+  postsBtn = document.getElementById('posts-btn');
+  showPosts();  
+
+  function showNotes() {
+    notesBtn.classList.add('toggle-selected');
+    postsBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "block"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "none"; 
+    }    
+  }
+
+  function showPosts() {
+    postsBtn.classList.add('toggle-selected');
+    notesBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "none"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "block"; 
+    }
+  }
+</script>
 
         </div>
         <div id="footer">

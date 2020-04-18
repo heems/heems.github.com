@@ -4,6 +4,7 @@ description: hey guys welcome to my minimalist living youtube channel today i ha
 date: 2020-03-21
 slug: solitude
 tags: poetry,fiction
+type: note
 ---
 
 hey guys welcome to DreamZen my minimalist living youtube channel.
