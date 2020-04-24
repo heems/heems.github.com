@@ -4,6 +4,7 @@ description: There are an infinite number of signals in the world. We create our
 date: 2019-11-04
 slug: cosmic-trigger-robert-anton-wilson-notes
 tags: reviews,books
+type: note
 ---
 
 I think RAW's philosophy is something like:
