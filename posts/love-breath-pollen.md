@@ -57,3 +57,5 @@ Resistance to sound is a negative spiral. The more I get in my own head, the the
 Now I listen to music the same way I breathe. I forget my preferences. Especially if I lack control. If I'm at a party, what choice do I have over what song is playing? I will never be the "YO dude could I get on the aux real quick? i'm CRAVING some bangers" character, that is my deepest value. I can't stop the speakers spitting and endless stream of  '21 21 21 21 21'. But I still have a choice. Stick to my "tastes" and cringe or melt into it and bob.  
 
 No song is really *that* bad. Just melt.
+
+*Semi-related: [My Disgusting Apartment](https://www.cs.utexas.edu/blog/my-disgusting-apartment)*
