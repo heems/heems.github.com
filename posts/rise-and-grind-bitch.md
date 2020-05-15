@@ -6,153 +6,167 @@ slug: rise-and-grind
 tags: life
 ---
 
-My alarm goes off at four a.m. Alexa puts on Joe Rogan. I rise and repeat my daily affirmations.  
+I hate going outside. 
 
-“I run a successful dropshipping teacher training. It generates twenty thousand dollars a month in profit. I have a hot Thai wife who loves to cook. My penis is ten inches in length, four in circumference.”  
+Outside is where the crabs lurk. Dumb and drunk off their own unjustified contentment. Stupidly satisfied with their crude and sloppy lives. To step out my workspace is to step into their claws.
 
-I crack my fingers. Let's fucking go.  
+But alas, I don't know how to cook, so I must go down to the restaurant downstairs to order some take-out.
 
-Before I break into flow state my phone buzzes. FUCK. I forgot to turn off notifications. That's a nanogram of dopamine I'm never getting back. My whole morning routine derailed. And for what.  
+I approach the front desk. It's unstaffed. Through my aviators, I see the daughter of the owner. She's in forest green overalls and a sheen, dollar store leprechaun hat. 
 
-“Happy birthday, Adam! Love mom.”  
+She runs up to me with a sticky grin. She stops and pinches my arm through the sleeve of my black turtleneck.
 
-I groan. More mental load. I should've gone off the grid, gotten a burner phone. I swipe the notification and add a task to my calendar: 'reply pleasantly to mom regarding birthday text'. I mark it as low pri and link it to the master task for this week: 'catch up on messages'.  
+"Happy St. Patricks Day!! You can't wear all black like that unless your underwear is green but I doubt it because I feel like you can tell who's wearing green underwear you know. You don't seem like you wear green underwear."
 
-Back to work. I set up omnifocus to block every website besides Roam, Google Keep, Notion, Evernote, r/nofap, Pocket, Blinkist, Workflowy, Trello, TastyTrade, and Matt D'Avella's YouTube channel.  
+My attempted "ha" comes out more as a chokey exhalation because not a single cell in my body is at all amused. My cells are busy, busy imagining grabbing her by the pigtails and throwing her through the window. *Happy St. Patrick's day bitch*. Enjoy wasting your willpower stressing out about to wear every morning because you let society's pointless customs pressure you into dressing a certain way.
 
-Finally I sink into my task list. A frenzy of re-prioritizing, triaging, streamlining, retrospecting.  
+She senses the tension and leaves. Still no waiter. 
 
-First, I export my keep notes to drive for further organization. I check the task on Trello. Boom..  
+I update my future hotel review in evernote, changing the three out of five to a dismal two out of five, adding a note about lack of commitment to paying customers.
 
-Next, I make a networked map of my Evernote notes in Roam. I'm on a roll. I always make sure to invest in my notes apps. They're my second brain. The benefits will compound soon enough.  
+Back in my room, I tell Alexa to put on Joe Rogan, and open my laptop while repeating my daily affirmations.
 
-I check the rest of my todo-list:  
+"I run a successful dropshipping teacher training. It  generates twenty thousand dollars a month in profit. I have a hot Thai wife who loves to cook. My penis is ten inches in length, four in circumference."
 
-“Review dropship item brainstorm and choose top three candidates for final ranking”  
+I crack my fingers. Let's fucking go. 
 
-“Finish howtomakemoneynow.co.uk SEO crash course”  
+Before I break into flow state, my phone buzzes. FUCK, I forgot to turn off notifications. That's a nanogram of dopamine I'm never getting back. My whole morning routine derailed. And for what.
 
-“Twenty minute cold shower”  
+"Happy St. Patrick's Day Adam! I hope you're doing well. Love you. I know you're so busy but call me when you have time. Want to hear that voice."
 
-Overwhelming. But I'm up to it. “Twenty minute cold shower”. Let's go.  
+I groan. More mental load. I should've gone off the grid, gotten a burner phone.  I swipe the notification and add a task to my calendar: 'reply pleasantly to mom regarding birthday text'. I mark it at as low pri and link it to the master task for this week: 'catch up on messages'.
 
-I clap my hands together like a youth soccer coach. It echoes in the beige hotel room, the hollowed furniture resonating. I stand there aware of the thinning sound, a moment of absolute emptiness.  
+Back to work. I set up omnifocus to block every website besides Roam, Google Keep, Notion, Evernote, r/nofap, Pocket, Blinkist, Workflowy, Trello, TastyTrade, and Matt D'Avella's YouTube channel.
 
-I rip off my turtleneck. My body shudders in anticipation. I haven't felt warmth in two weeks. I maintain the thermostat at a strict fifty degrees. Warmth begets complacency. We must leave the womb to begin our quest.  
+Finally I sink into my task list. A frenzy of re-prioritizing, triaging, streamlining, retrospecting. 
 
-I pull off my boxers and flick the shower knob to the right. My shower curtain is an enormous portrait of Wim Hof shirtless in the snow. He looks at me with those brilliant eyes, and I look at him. I take it with me everywhere.  
+First, I export my Google Keep notes to Gogole Drive for further organization and triaging. Boom, I check it on Trello.
 
-As my big toe tests the icy stream, a shock runs up my inner thigh. My testicles retreat into my groin. My spine goes numb. My foot spasms as my animal instincts desperately pull back. But I am no animal.   
+Next, I make a networked map of my Evernote notes in Roam. I'm on a roll. I always make sure to invest in my notes apps. The benefits will compound soon enough. 
 
-My vision begins to blur. I hear a voice in my head, “Don't do this to yourself. You can't take anymore.” I begin to falter.  
+I check the rest of my todo-list:
 
-But then, another voice. A manlier voice: 
+"Review dropship item brainstorm and choose top three candidates for final ranking"
+"Finish howtomakemoneynow.co.uk SEO crash course"
+"Twenty minute cold shower"
 
-“You fucking pussy. Just do it.”  
+Overwhelming. But I'm up to it. "Twenty minute cold shower", let's go.
 
-I jump in. Everything goes black.  
+I clap my hands together like an over-involved youth soccer coach at the end of half time. The sound reaches no one but me, stand there aware of the thinning echoes.
 
-~~~  
+I rip off my turtleneck, shuddering. I keep the thermostat at a strict fifty degrees. I haven't felt warmth in two weeks. Warmth begets complacency. We must leave the womb to begin our quest. 
 
-Lazy Sunday mornings. Unashamed yawning at eleven a.m.  
+I pull off my boxers and flick the shower knob to the right. My shower curtain is an enormous portrait of Wim Hof shirtless in the snow. He looks at me with those brilliant eyes and I look at him. I take it with me everywhere.
 
-"Babe it's 11 a.m. we should get up"
+As my big toe tests the icy stream, a shock runs up my inner thigh. My testicles retreat into my groin. My foot spasms as my animal instincts desperately try and wrench my foot back to safety. But I am no animal. 
 
-"Mmm just five more minutes"
+My vision begins to blur. I hear a voice in my head, "Don't do this to yourself. You can't take anymore." I begin to falter. 
 
-She hugs me like a koala and we sink back under the duvet giggling. Her body so warm with life pressed tight against mine, united against the chill fall air through the open window. Warmer, warmer, warmer, hot.
+But then another voice. A manlier voice: "Just do it you fucking pussy."
 
-A little too hot actually. Almost suffocating. 
+I jump in. Everything goes black.
 
-Fuck I'm actually suffocating. I can't breathe.  
+...
 
-~~~  
+Lazy Sunday mornings... we yawn unashamed at eleven a.m.
 
-Chest tight I gasp awake. I'm laying on the floor of the tub. Frigid water pummels my numb shoulders. David Goggins shouts off a waterproof speaker.  
+I make a half-hearted attempt to get up.
 
-“GET OUT OF THE TUB YOU FRAGILE MOTHERFUCKER. IT'S BEEN THIRTY MINUTES.”  
+"C'mon it's 11 a.m. we should get up."
 
-My limbs feel prosthetic. My fingers have frozen together. I push myself over the edge of the tub, my whole arm working as one rigid unit, and pull myself out of the bathroom, by sliding on my belly. Still drenched, I use my flippers to squeeze on my exoficios and turtleneck.  
+"Mmmm just five more minutes."
 
-Another buzz. I scoop my phone towards me. Through teary distended eyes I can only make out:  
+She hugs me like a koala, body hot with life, and we sink back under the duvet, bodies pressed tight together, united against the frigid breeze through the open window.
 
-“Miss you”  
+Warmer and warmer in our enclave. A little hot actually. Almost suffocating.
+...
 
-*Miss you*. My heart pumps harder.  
+Chest tight I gasp awake. I'm laying on the floor of the tub. Frigid water pummels my numb shoulders. David Goggins shouts off a waterproof speaker.
 
-My hands tremble too much for the fingerprint sensor, so I expand the notification with my nose. I glimpse the full text.  
+"GET OUT OF THE TUB YOU FRAGILE MOTHERFUCKER. IT'S BEEN THIRTY MINUTES."
 
-“Miss you honey, call me when you get the chance. Hope you're enjoying Mendocino. Don't work too hard. Love mom.”  
+My limbs feel prosthetic. My fingers have frozen together. I push myself over the edge of the tub, my whole arm working as one rigid unit, and pull myself out of the bathroom. Still drenched, I use my flippers to slide on my belly to my dresser and squeeze on my exoficios and turtleneck.
 
-I hit my phone away with my arm like a pinball flipper.  
+Another buzz. I scoop my phone towards me. Through teary distended eyes I can only make out:
 
-The warmth subsides into the hollow silence.  
+"Miss you"
 
-My brain, still recovering, slowly processes the text. My own mom telling me to not work too hard? Don't work too hard? DON'T WORK TOO HARD? Does she want me to fail? Crabs in a fucking barrel. The warmth returns. I find my strength.  
+*Miss you*. My heart pumps harder.
 
-2020 is the year of renewal. The year of new habits. New processes. New calendar apps.  
+My hands tremble too much for the fingerprint sensor, so I expand the notification with my nose. The full text:
 
-I must drop anything holding me back. Anything holding me back. Anything holding me under the duvet at eleven a.m. even though THEY KNOW I need to get up at six to start lifting. Anything begging me for five more minutes even though THEY KNOW I have to write seven-hundred and fifty words before breakfast. Anything rubbing their thumbs along the inside of my waistband even though THEY KNOW all greatness is borne of suffering.  
+"Miss you honey, call me when you get the chance. Hope you're enjoying Mendocino. Don't work too hard. Love, mom."
 
-I claw my way back to my laptop and open Todoist.  
+The warmth leaves. I hit my phone away with my arm like a pinball flipper. 
 
-“Build Shopify websites. 3 sets of 5. 20 minute break in-between. Work the shipping muscle.”  
+I slowly process the text. My own mom telling me to not work too hard? Don't work too hard? DON'T WORK TOO HARD? Does she want me to fail? Crabs in a fucking barrel, man. The minute one of them realizes they're a failure they bring down everyone else. The anger turns in warmth and I find my strength.
 
-I stare, but the words won't register. My mouth hangs slightly. Possessed, my fingers move on their own, Ctrl-t Pornhub tab enter.  
+2020 is the year of renewal. The year of new habits. New processes. New calendar apps. 
 
-An alert pops up.  
+I must drop everything holding me back. everything holding me back. 
 
-*This site is blocked! Do you want to take a break (Y/N)?*  
+Anything holding me under the duvet at eleven a.m. even though *they know* I need to get up at six to start lifting. Anything begging me for five more minutes even though *they know* I have to write seven-hundred and fifty words before breakfast. Anything tracing their thumbs along the inside of my waistband even though *they know* all greatness is borne of suffering.
 
-I stare blankly, my reflection staring back in the dimly lit OLED display.  
+I claw my way back to my laptop and open Todoist.
 
-*Do you want to take a break?*  
+First task: "Build Shopify websites. 3 sets of 5. 20 minute break in-between. Work the shipping muscle."
 
-Jesus. I jump for my phone with my frozen flippers. I ring the hotline. My focus app springs an alert.  
+The words won't register. My eyes defocus. I'm staring past the screen now, my mouth ajar. Somethings in my chest and I exhale sharply.
 
-“ADAM, YOU HAVE MADE A COMMITMENT TO DONATE $1000 TO THE DEMOCRATIC SOCIALISTS OF AMERICA EVERY TIME YOU USE YOUR PHONE DURING DEEP WORK HOURS OF 7 A.M. TO 11 P.M. ARE YOU SURE YOU WISH TO PROCEED?”  
+My fingers move on their own, Ctrl-t Pornhub tab enter.
 
-I click yes. It stings, but this is an emergency. The free riders need the money anyway.  
+An alert pops up. 
 
-The call connects.  
+*You have blocked this site! Do you want to take a break (Y/N)?* 
 
-“Hello brother.”  
+Do you want to take a break?
 
-His voice is deep yet unnatural. I imagine him forcing his chin into his sternum for better posture.  
+Jesus. I jump for my phone and ring the hotline. My focus app springs an alert.
 
-“I-i-i think I'm going insane– I almost just relapsed but thankfully I have the site blocked. I have a TWO-HUNDRED day streak, man. TWO HUNDRED. and I almost ruined it all. For WHAT? For what?”  
+"ADAM, YOU HAVE MADE A COMMITMENT TO DONATE $1000 TO THE DEMOCRATIC SOCIALISTS OF AMERICA EVERY TIME YOU USE YOUR PHONE DURING THE DEEP WORK HOURS OF 7 A.M. TO 11 P.M. ARE YOU SURE YOU WISH TO PROCEED?"
 
-“Deep breaths brother. You did great. You're going to make it. Deep breaths–”  
+I click yes. It stings, but this is an emergency. The free riders need the money anyway.
 
-“I can't. I *can't breathe.* I'm so *fucking* cold.”  
+The call connects.
 
-“Don't worry. The body just needs some time to adjust to the cold showers. The benefits really take about four - six weeks to kick–”  
+"Hello, brother."
 
-“I'm so FUCKING cold I'm suffocating. Could I even jerk off if I wanted to? My arms are dead my fingers are frozen together, I haven't felt life in my dick in six months. What the FUCK is this? What am I doing? I spent ten hours researching blenders yesterday, *brother*. TEN HOURS RESEARCHING CHINESE BLENDERS. FOR WHAT? IS THIS THE REST OF MY LIFE? UPSELLING CHEAP FOREIGN BLENDERS ON SHOPIFY PAGES AND CLAMPING MY SEMEN DUCT? IS THIS VICTORY?”  
+His voice unnaturally deep, like he's forcing his chin into his sternum for better posture. 
 
-“Brother, please. You know not what you say. Remember how far you've come. Remember how late you used to wake up. How much time you'd waste under the duvet. Remember how shallow your work was. Always texting.”  
+"I-i-i think I'm going insane. I almost just relapsed, but thankfully I have the site blocked. I have a TWO-HUNDRED day streak man. TWO HUNDRED. and I almost ruined it all. For what? *For what?*"
 
-“THAT'S THE ONLY THING THAT–”  
+"Deep breaths brother. You did great. You're going to make it. Just take some deep breaths--"
 
-“BROTHER, please stay calm. I'm calling in for backup. I'm sending a few comrades to your place with some bulletproof coffee and a Bruce Lee movie as we speak.”  
+"I can't. I *can't breathe.* I'm so *fucking* cold."
 
-“THE ONLY THING THAT GIVES ME WARMTH IS HER BREATH ON MY NECK.”  
+"Don't worry. The body just needs some time to adjust to the cold showers. The benefits really take about four - six weeks--"
 
-“Uh, come again?”  
+"I'm so FUCKING cold I'm suffocating. Could I even jerk off if I wanted to? My arms are dead, my fingers are frozen together, I haven't felt life in my dick in six months. *What the FUCK is this? What am I doing?* I spent ten hours yesterday researching blenders, *brother*. TEN HOURS RESEARCHING CHINESE BLENDER WHOLESALERS. FOR WHAT? IS THIS THE REST OF MY LIFE? UPSELLING CHEAP FOREIGN BLENDERS ON SHOPIFY PAGES AND CLAMPING MY SEMEN DUCT SHUT? IS THIS VICTORY?"
 
-“THE ONLY THING THAT GIVES ME WARMTH IS HER BREATH ON MY NECK”  
+"Brother, please. You know not what you say. Remember how far you've come. Remember how late you used to wake up. How much time you'd waste under the duvet. Remember how shallow your work was. Always texting."
 
-“Uh, just take deep breaths brother. Wait, what's that sound? Are you chewing? Brother it's outside the eight hour intermittent fasting window! Don't sin like this!”  
+"THAT'S THE ONLY THING THAT--"
 
-I wheeze and gasp as I shovel chocolate into my mouth. I down the cocktail of tears, mucus, and saliva and the blood returns to my fingers once again. My shoulders relax. My chest opens. Ambition fades.  
+"BROTHER, please stay calm. I'm calling in for backup."
 
-The alert still looms over my browser. *Do you want to take a break?*  
+"THE ONLY THING THAT GIVES ME WARMTH IS HER BREATH ON MY NECK."
 
-I see my dripping face set against the crude black and yellow webpage. I look surprisingly calm. Leveled, calculated. I slowly rise to close the blinds. I unzip my pants.  
+"Uh, come again?"
 
-The screams from the phone pass through my ears.  
+"THE ONLY THING THAT GIVES ME WARMTH IS HER BREATH ON MY NECK"
 
-“BROTHER, STOP. DON'T DO THIS. THINK OF THE REGRET, THINK OF THE SHAME. BROTHER, PLEASE.”  
+"Uh um just keep taking deep breaths. Wait, brother, what's that sound? *Are you chewing?* Brother! It's outside the eight hour intermittent fasting window! Don't sin like this!"
 
-I squirt Lubiderm into my quivering palms. Everything fades to black.  
+I wheeze and gasp as I shovel chocolate into my mouth. As I swallow the cocktail of tears, mucus, and saliva, the blood returns to my fingers. My shoulders relax, my chest opens. The ego dissolves, ambition fades.
 
+The alert still looms over my browser. *Do you want to take a break?*
+
+I see my dripping face set against the crude black and yellow webpage. I look surprisingly calm. Leveled, calculated. 
+
+I slowly rise to close the blinds and unzip my pants.
+
+The screams from the phone pass through my ears.
+
+"BROTHER, STOP. DON'T DO THIS. THINK OF THE REGRET. THINK OF THE SHAME. BROTHER, *PLEASE.*"
+
+I squirt Lubiderm into my dry palms. Everything fades to black.
