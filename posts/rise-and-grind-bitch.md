@@ -66,7 +66,7 @@ But then another voice. A manlier voice: "Just do it you fucking pussy."
 
 I jump in. Everything goes black.
 
-...
+~~~
 
 Lazy Sunday mornings... we yawn unashamed at eleven a.m.
 
@@ -78,8 +78,9 @@ I make a half-hearted attempt to get up.
 
 She hugs me like a koala, body hot with life, and we sink back under the duvet, bodies pressed tight together, united against the frigid breeze through the open window.
 
-Warmer and warmer in our enclave. A little hot actually. Almost suffocating.
-...
+Warmer and warmer in our enclave. A little hot actually. Almost suffocating.  
+
+~~~
 
 Chest tight I gasp awake. I'm laying on the floor of the tub. Frigid water pummels my numb shoulders. David Goggins shouts off a waterproof speaker.
 
@@ -169,4 +170,4 @@ The screams from the phone pass through my ears.
 
 "BROTHER, STOP. DON'T DO THIS. THINK OF THE REGRET. THINK OF THE SHAME. BROTHER, *PLEASE.*"
 
-I squirt Lubiderm into my dry palms. Everything fades to black.
+I squirt Lubiderm into my dry palms. Everything fades to black.  
