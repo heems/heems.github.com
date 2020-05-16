@@ -7,7 +7,7 @@ Karthik rolls in molasses energy
 And charges up - no hippie poser, he.  
 From techno-hedonism did he flee.  
 
-Fed up with diagnosis of machines, 
+Fed up with diagnosis of machines,  
 He learnt of diagnosing men by means  
 Spiritual, contextual, serene.  
 
