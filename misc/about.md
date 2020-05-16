@@ -1,11 +1,20 @@
 <center>
-## yo
+## in poem form (thanks [maxwell](http://maxwelljoslyn.com))
 </center>
 <!-- TODO, writing/blog-about-me.md -->
-#### here's a quick bio:
 
-i'm a guy from california who majored in computer science but didn't like it nearly as much as thinking about people
+Karthik rolls in molasses energy  
+And charges up - no hippie poser, he.  
+From techno-hedonism did he flee.  
 
-so now i'm studying ayurveda and spirituality to understand how i can best heal myself and others
+Fed up with diagnosis of machines, 
+He learnt of diagnosing men by means  
+Spiritual, contextual, serene.  
 
-this blog is the byproduct of whatever i've been thinking about. it's mainly to provoke a discussion with you, so send me your thoughts.
+You're awful sick? Your life seems worse than Hell?  
+You long to hear the chiming temple bell?  
+Take all that shit to Karthik. You'll get well.  
+
+"Your lesser self will rise and float away;  
+Your truer self will settle down and stay.  
+You will be cured! Please join me as I pray."  
