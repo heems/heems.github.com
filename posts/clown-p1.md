@@ -4,7 +4,13 @@ description: on fakeness
 date: 2020-06-12
 slug: clown-part-one
 tags: life
+image: images/wojak-clown-mask.jpg
 ---
+
+<center>
+<img src="/images/wojak-clown-mask.jpg"/>
+</center>
+
 
 I'm fake with most people. Strangers, friends, cashiers-- all to varying degrees.
 
