@@ -6,6 +6,10 @@ slug: rise-and-grind
 tags: life
 ---
 
+<center>
+<img src="/images/rise-and-grind.jpg"/>
+</center>
+
 I hate going outside. 
 
 Outside is where the crabs lurk. Dumb and drunk off their own unjustified contentment. Stupidly satisfied with their crude and sloppy lives. To step out my workspace is to step into their claws.

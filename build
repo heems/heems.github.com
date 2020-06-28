@@ -1,7 +1,7 @@
 #!/bin/bash
 source /home/karthik/code/heems.github.io/env/bin/activate
 # simple af file watcher
-python gen.py
+python3 gen.py
 # copy images over
 cp -r images site/
 cp _redirects site/_redirects
