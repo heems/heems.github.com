@@ -4,6 +4,7 @@ description: HOW NO FAP AND COLD SHOWERS WILL CHANGE YOUR LIFE!!!!
 date: 2020-05-13
 slug: rise-and-grind
 tags: life
+image: images/rise-and-grind.jpg
 ---
 
 <center>

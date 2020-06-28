@@ -8,6 +8,7 @@ from shutil import copyfile
 POSTS_DIR = 'posts'
 BUILD_DIR = 'site'
 CSS_DIR = 'css'
+SITE_URL = 'https://blog.karthik.is/'
 
 env = Environment(loader=FileSystemLoader('./pages/'))
 post_template = env.get_template('post.html')
@@ -98,6 +99,7 @@ for post in POSTS:
         'title': post_metadata['title'],
         'date': post_metadata['date'],
         'tags': post_metadata.get('tags', []),
+        'image': SITE_URL + post_metadata.get('image', 'images/blogbg.png'),
     }
 
     post_html_content = post_template.render(post=post_data)
