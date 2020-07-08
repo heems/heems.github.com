@@ -1,4 +1,10 @@
 <center>
+<a href="http://karthik.is/life.html"><h2>in timeline form (with pictures 💦)</h2></a>
+</center>
+
+---
+
+<center>
 ## in poem form (thanks [maxwell](http://maxwelljoslyn.com))
 </center>
 <!-- TODO, writing/blog-about-me.md -->
