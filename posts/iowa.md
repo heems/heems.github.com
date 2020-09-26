@@ -1,6 +1,6 @@
 ---
 title: Isolated in Iowa 
-description: The benefits of the hermit life.
+description: tips tricks and perspectives for the hermit life
 date: 2020-09-25
 slug: isolated-in-iowa
 tags: life
