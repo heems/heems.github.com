@@ -3,7 +3,7 @@ title: RISE AND GRIND BITCH
 description: HOW NO FAP AND COLD SHOWERS WILL CHANGE YOUR LIFE!!!! 
 date: 2020-05-13
 slug: rise-and-grind
-tags: life
+tags: life,fiction
 image: images/rise-and-grind.jpg
 ---
 

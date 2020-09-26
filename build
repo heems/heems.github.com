@@ -1,5 +1,5 @@
 #!/bin/bash
-source /home/karthik/code/heems.github.io/env/bin/activate
+source /home/karthik/code/blog/env/bin/activate
 # simple af file watcher
 python3 gen.py
 # copy images over
