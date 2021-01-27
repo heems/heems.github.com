@@ -9,11 +9,12 @@ image: images/us-china.jpeg
 
 I've tried to narrate an enjoyable overview of the current US-China trade situation in the form of a story, intended for the casuals who don't want to comb through dry academic papers and textbooks. We start with the very basics of international trade and build the pre-requisite knowledge as the story unfolds.
 
-We'll look at:
-1. How the U.S. is trading it's productive capacity for higher consumption
-2. How this leads to excess debt and inflation
-3. How China's monetary policy and government subsidies support this behavior
-4. How this can all collapse
+We'll look at:  
+
+1. How the U.S. is trading it's productive capacity for higher consumption  
+2. How this leads to excess debt and inflation  
+3. How China's monetary policy and government subsidies support this behavior  
+4. How this can all collapse  
 
 The insights are all from [Sridhar Vembu](https://twitter.com/svembu) and his posts, this the result of me thinking through them. I also lean on Trade Wars are Class Wars by Michael Pettis and Matthew Klein for support.
 
