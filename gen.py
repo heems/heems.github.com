@@ -38,7 +38,7 @@ for markdown_post in os.listdir(POSTS_DIR):
     file_path = os.path.join(POSTS_DIR, markdown_post)
 
     with open(file_path, 'r') as file:
-        POSTS[markdown_post] = markdown(file.read(), extras=['metadata'])
+        POSTS[markdown_post] = markdown(file.read(), extras=['metadata', 'footnotes'])
 
 
 def transform_metadata(post):

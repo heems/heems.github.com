@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8"> 
+    <link rel="stylesheet" href="/css/main.css" />
+    <title>economics</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="">
+    <meta property="twitter:image" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="economics">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-43061045-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-43061045-2');
+    </script>
+</head>
+<body>
+    <div id="page-container">
+        <div id="container">
+            <div id="top-bar">
+  <div id="nav">
+    <a href="/about.html">about</a>
+    /
+    <a href="/follow.html">follow</a>
+    /
+    <a href="/topics.html">topics</a>
+  </div>
+  <div id="home-name"><a href="/">KARTHIK BALA</a></div>
+</div>
+            
+<header>
+  <h1>economics</h1>
+</header>
+<div class="skinny">
+  <div id="posts-toggle-bar">
+    <a href="#" id="posts-btn" class="posts-toggle-btn" onclick="showPosts()">posts</a>
+    <a href="#" id="notes-btn" class="posts-toggle-btn" onclick="showNotes()">notes</a>
+  </div>
+  
+
+  <div class="bordered post" id="post-preview">
+    <h2 class="link">
+      <a href="/posts/us-china-relations/">A Guide to the U.S.-China Trade Situation</a>
+    </h2>
+    <div id="post-metadata">
+      2020-12-27 &bull; 
+
+  <a class="link" href="/topics/economics">economics</a>
+
+  <a class="link" href="/topics/guides">guides</a>
+
+  <a class="link" href="/topics/long">long</a>
+
+    </div>
+    <br />
+    I've tried to narrate an enjoyable overview of the current US-China trade situation in the form of a story, intended for the casuals who don't want to comb through dry academic papers and textbooks.
+  </div>
+
+  
+</div>
+
+<script type="text/javascript">
+  var notes = document.getElementsByClassName('note');
+  var posts = document.getElementsByClassName('post');
+  notesBtn = document.getElementById('notes-btn');
+  postsBtn = document.getElementById('posts-btn');
+  showPosts();  
+
+  function showNotes() {
+    notesBtn.classList.add('toggle-selected');
+    postsBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "block"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "none"; 
+    }    
+  }
+
+  function showPosts() {
+    postsBtn.classList.add('toggle-selected');
+    notesBtn.classList.remove('toggle-selected');
+    for (var i = 0; i < notes.length; i++) {
+      notes[i].style.display = "none"; 
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      posts[i].style.display = "block"; 
+    }
+  }
+</script>
+
+        </div>
+        <div id="footer">
+            <p>thank you for reading 🙂</p>
+            <p>send thoughts to karthikbala444@gmail.com</p>
+            <div id="nav" style="margin-left: -.5em">
+                <a href="/follow.html">subscribe</a>
+                ·
+                <a href="https://twitter.com/kbala444">twitter</a>
+                ·
+                <a href="https://soundcloud.com/covert-possum">soundcloud</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
