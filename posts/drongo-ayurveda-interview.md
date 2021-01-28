@@ -1,9 +1,11 @@
 ---
-title: A Guide to the U.S.-China Trade Situation 
-description: I've tried to narrate an enjoyable overview of the current US-China trade situation in the form of a story, intended for the casuals who don't want to comb through dry academic papers and textbooks.
-date: 2020-01-27
-slug: us-china-relations
-tags: economics,guides,long
+title: Interview with The Drongo 
+description: Ayurveda, magical mantras, and how I approach belief and skepticism.
+date: 2021-01-27
+slug: ayurveda-drongo
+tags: health,spirituality
 ---
 
-yooo
+My friend Maxwell, author of this website's [about poem](https://blog.karthik.is/about.html), [started a newsletter](https://www.maxwelljoslyn.com/tags/drongo), and you should subscribe. He interviews cool people (e.g. me), and asks great questions.
+
+**[Check out my interview here.](https://www.maxwelljoslyn.com/thedrongo/interviews/karthik-bala)**
