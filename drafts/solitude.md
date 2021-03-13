@@ -3,7 +3,7 @@ title: Solitude
 description: hey guys welcome to my minimalist living youtube channel today i have a short video on being AN INTROVERT.
 date: 2020-03-21
 slug: solitude
-tags: poetry,fiction
+tags: fiction
 type: note
 ---
 
