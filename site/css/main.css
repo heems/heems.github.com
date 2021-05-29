@@ -156,6 +156,7 @@ html {
   width: auto;
   height: auto;
   margin: 0 auto;
+  padding: 1em 0 1em 0;
   max-width: 100%;
 }
 
@@ -245,6 +246,20 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   border-left: 0.25em solid var(--header-color);
+}
+
+.bordered-img {
+  border: 1px solid;
+  margin: 2em 0;
+}
+
+.post-section {
+  border: 1px dashed;
+  font-family: monospace;
+  font-size: 1.5rem;
+  padding: 1em;
+  margin: 2em 2em 1em 2em;
+  text-align: center;
 }
 
 #mc_embed_signup_scroll input.button {
