@@ -8,11 +8,13 @@ tags: fiction,life
 
 Three months ago, you bought tickets to the **World's Greatest Festival 2021**. 
 
-Millions of performers, celebrities, models, and artists are flown in from all over the world. Thousands of stages-- everything from stand-up comedy to a Great British Bake Off live show to TikTok stars hitting wop after wop. On one stage you have professors debating foreign policy right next to Bluface rapping in front of a whole cast of Thotianas twerking at various angles. Truly a sight to behold.
+Millions of performers, celebrities, models, and artists flying in from all over the world. Thousands of stages. Everything from stand-up comedy to a Great British Bake Off live performance to full scale classical orchestras to TikTok stars hitting twenty second dances in quick succession. Professors debating foreign policy right next to a Cardi B grinding on Bluface blasting Thotiana. A sight to behold.
 
-The festival comes around and unfortunately for you, you're swamped with work. You can't NOT go to the World's Greatest Festival, so you decide to compromise. 
+Unfortunately for you, you have a math final the day after the festival and you haven't started studying. 
 
-The compromise: you will roll through in a sound-proofed bubble, with nothing but a camelback and a dense book on category theory that you have to finish before your midterm in two days. You'll allow yourself a five minute break every twenty-five minutes or so, where you can exit the bubble and run around for a bit. Foolproof.
+You can't NOT go to the World's Greatest Festival, so you decide to compromise. 
+
+The compromise: you will roll up to the festival in a sound-proofed bubble. Inside the bubble, you'll have nothing but a camelback full of unadulterated redbull, and a dense book on category theory. Every twenty five minutes, you'll give yourself a five minute break to exit the bubble and run around the fest for a bit. Foolproof plan.
 
 <div class="post-section">
 FESTIVAL DAY
