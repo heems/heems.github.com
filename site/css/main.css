@@ -262,6 +262,12 @@ blockquote {
   text-align: center;
 }
 
+#post-content {
+  font-family: 'PT Serif', serif;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
 #mc_embed_signup_scroll input.button {
   font-size: 1.5rem;
   border: none;
